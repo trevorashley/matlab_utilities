@@ -1,3 +1,6 @@
 [submodule "utilities/export_fig"]
 	path = utilities/export_fig
 	url = https://github.com/altmany/export_fig
+[submodule "utilities/CVX"]
+	path = utilities/CVX
+	url = https://github.com/cvxr/CVX
